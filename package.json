@@ -1,0 +1,17 @@
+{
+  "name": "find-parent-dir-cli",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "find-parent-dir": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vu Tran <vu@vu-tran.com>",
+  "license": "MIT",
+  "dependencies": {
+    "find-parent-dir": "^0.3.0"
+  }
+}
